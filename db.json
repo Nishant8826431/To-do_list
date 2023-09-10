@@ -1,0 +1,73 @@
+{
+  "Task-data": [
+    {
+      "Task": "qwrewr",
+      "status": "completed",
+      "id": 2
+    },
+    {
+      "Task": "mohamadncvn",
+      "status": "completed",
+      "id": 4
+    }
+  ],
+  "User-data": [
+    {
+      "name": "nm",
+      "email": "vbn",
+      "dob": "ghj",
+      "contact": " bhg",
+      "username": "qwrew",
+      "id": 1
+    },
+    {
+      "dob": "wrewr",
+      "contact": "ewe",
+      "username": "iwueriwur",
+      "id": 2
+    },
+    {
+      "name": "    ",
+      "email": "QWWEWQR",
+      "dob": "EWFWRW",
+      "contact": "131314",
+      "username": "wd",
+      "id": 3
+    },
+    {
+      "name": "qwerqewr",
+      "email": "werweqr",
+      "dob": "qwrwqre",
+      "contact": "qwwr",
+      "username": "er",
+      "id": 4
+    },
+    {
+      "name": "werewr",
+      "email": "werewr",
+      "dob": "0213-03-12",
+      "contact": "234242",
+      "username": "2wrtqwetr",
+      "id": 5
+    },
+    {
+      "name": "213",
+      "email": "12321",
+      "password": "312312",
+      "dob": "0001-03-12",
+      "contact": "123123",
+      "username": "132313",
+      "id": 6
+    },
+    {
+      "name": "Nishant",
+      "email": "9310575381",
+      "password": "23453254",
+      "dob": "0435-05-23",
+      "contact": "345345",
+      "username": "NIshanygysw",
+      "id": 7
+    }
+
+  ]
+}
